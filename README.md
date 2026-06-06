@@ -18,3 +18,5 @@ Belted Z: https://github.com/3DPrintingMods/VoronTrident-BeltedZ
 CPAP flap: https://www.printables.com/model/1281484-impoved-cpap-part-cooling-flap
 
 CPAP Heater: (in Onshape Document)
+
+NEMA23 X/Y: https://www.printables.com/model/1417207-voron-24-x-y-gentry-nema23
