@@ -20,3 +20,5 @@ CPAP flap: https://www.printables.com/model/1281484-impoved-cpap-part-cooling-fl
 CPAP Heater: (in Onshape Document)
 
 NEMA23 X/Y: https://www.printables.com/model/1417207-voron-24-x-y-gentry-nema23
+
+NEMA17 AWD booster: https://www.printables.com/model/1309542-idler-awd
